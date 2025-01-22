@@ -1,0 +1,9 @@
+// episode 1---------------
+
+{/* <script>
+    const heading=document.createElement("h1");
+    heading.innerHTML="hello world";
+
+    const child=document.getElementById("root");
+    child.appendChild(heading);
+</script> */}
